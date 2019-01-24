@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="103102" started-at="2019-01-24T04:21:35Z" finished-at="2019-01-24T04:23:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="103102" started-at="2019-01-24T04:21:35Z" finished-at="2019-01-24T04:23:18Z">
+      <class name="amazonepackage.AmazoneTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:amazonepackage.AmazoneTest@be92ad]" name="initialize" is-config="true" duration-ms="17273" started-at="2019-01-24T09:51:35Z" finished-at="2019-01-24T09:51:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="amazoneimge()[pri:0, instance:amazonepackage.AmazoneTest@be92ad]" name="amazoneimge" duration-ms="23420" started-at="2019-01-24T09:51:52Z" finished-at="2019-01-24T09:52:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazoneimge -->
+        <test-method status="PASS" signature="banknameswfcode()[pri:0, instance:amazonepackage.AmazoneTest@be92ad]" name="banknameswfcode" duration-ms="61632" started-at="2019-01-24T09:52:15Z" finished-at="2019-01-24T09:53:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- banknameswfcode -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:amazonepackage.AmazoneTest@be92ad]" name="teardown" is-config="true" duration-ms="726" started-at="2019-01-24T09:53:17Z" finished-at="2019-01-24T09:53:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- amazonepackage.AmazoneTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
